@@ -1301,8 +1301,8 @@
 		}
 
 			#header.hide .inner, #header.preview .inner {
-				height: 6em;
-				width: 6em;
+				height: 8em;
+				width: 8em;
 				padding: 2em;
 			}
 
@@ -1341,9 +1341,9 @@
 				}
 
 				#header.hide .button.hidden:before, #header.preview .button.hidden:before {
-					content: '\f015';
+					content: '\f07a';
 					color: #FFF;
-					font-size: 1.5em;
+					font-size: 1.7em;
 				}
 
 				#header.hide .button.hidden span, #header.preview .button.hidden span {
@@ -1355,7 +1355,7 @@
 			#header .inner {
 				width: 25em;
 				height: 25em;
-				font-size: .75em;
+				font-size: 1em;
 				padding: 3em;
 			}
 
